@@ -973,3 +973,139 @@ footer a {
     color: #222222 !important;
   }
 }
+
+
+
+
+
+/* =========================================================
+   FEATURED PROJECT CTA
+   ========================================================= */
+
+section a.featured-project-link {
+  width: 350px;
+  height: 100px;
+  max-width: 100%;
+
+  box-sizing: border-box;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px 28px;
+  margin: 16px 0 24px;
+
+  color: #f4fff6 !important;
+
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  text-align: center;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(58, 180, 92, 0.32),
+      rgba(41, 145, 70, 0.18)
+    );
+
+  border: 1px solid rgba(104, 230, 137, 0.60);
+  border-radius: 14px;
+
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.12),
+    0 10px 30px rgba(34, 160, 69, 0.15),
+    0 0 18px rgba(68, 210, 105, 0.10);
+
+  animation: projectGlow 3s ease-in-out infinite;
+
+  transition:
+    transform 0.3s ease,
+    background 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+
+/* Continuous soft glow */
+
+@keyframes projectGlow {
+
+  0%,
+  100% {
+    border-color: rgba(104, 230, 137, 0.42);
+
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.10),
+      0 10px 30px rgba(34, 160, 69, 0.12),
+      0 0 12px rgba(68, 210, 105, 0.08);
+  }
+
+  50% {
+    border-color: rgba(112, 255, 151, 0.82);
+
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.14),
+      0 14px 35px rgba(34, 190, 78, 0.22),
+      0 0 28px rgba(68, 230, 110, 0.20);
+  }
+}
+
+
+/* Hover */
+
+section a.featured-project-link:hover {
+  color: #ffffff !important;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(62, 205, 101, 0.42),
+      rgba(45, 165, 79, 0.25)
+    );
+
+  border-color: rgba(125, 255, 160, 0.95);
+
+  transform: translateY(-4px) scale(1.015);
+
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.16),
+    0 18px 40px rgba(34, 180, 75, 0.25),
+    0 0 32px rgba(74, 235, 116, 0.22);
+}
+
+
+/* Accessibility: stop animation when reduced motion is enabled */
+
+@media (prefers-reduced-motion: reduce) {
+  section a.featured-project-link {
+    animation: none;
+  }
+}
+
+
+/* Mobile */
+
+@media screen and (max-width: 600px) {
+
+  section a.featured-project-link {
+    width: 100%;
+    height: 90px;
+
+    font-size: 15px;
+    padding: 18px 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
