@@ -29,9 +29,11 @@ I identified where each action started and ended, created the appropriate segmen
   <li>Quality Assurance</li>
 </ul>
 
-<a class="portfolio-button" href="video-annotation/">View Full Video Annotation Project</a>
+<a class="link-card" href="video-annotation/">View Full Video Annotation Project</a>
 
+<p class="project-note">
 The project includes screenshots of my annotation work, examples of the guidelines I followed, my workflow, and a video demonstration.
+</p>
 
 </div>
 
@@ -39,19 +41,17 @@ The project includes screenshots of my annotation work, examples of the guidelin
 
 ## Experience
 
-My experience includes working with different types of AI training and annotation tasks.
+My experience includes working with different types of AI training and annotation tasks, including:
 
-<ul class="skill-list">
-  <li>Video Annotation</li>
-  <li>Video Segmentation</li>
-  <li>Image Annotation</li>
-  <li>Object Labeling</li>
-  <li>AI Response Evaluation</li>
-  <li>Data Quality Review</li>
-  <li>Guideline-Based Annotation</li>
-  <li>Error Detection</li>
-  <li>Edge-Case Review</li>
-</ul>
+- Video annotation
+- Video segmentation
+- Image annotation
+- Object labeling
+- AI response evaluation
+- Data quality review
+- Guideline-based annotation
+- Error detection
+- Edge-case review
 
 I am comfortable working with detailed guidelines and adapting to different project requirements. When I come across an unclear case, I review the guidelines and surrounding data carefully before making a decision.
 
@@ -78,15 +78,12 @@ Accuracy is important to me, especially when working with large amounts of train
 
 My approach includes:
 
-<ul class="skill-list">
-  <li>Accurate Labels</li>
-  <li>Precise Segment Boundaries</li>
-  <li>Guideline Interpretation</li>
-  <li>Consistent Annotation</li>
-  <li>Invalid Case Detection</li>
-  <li>Error Checking</li>
-  <li>Quality Review</li>
-</ul>
+- Checking labels and segment boundaries
+- Following project guidelines carefully
+- Keeping annotations consistent
+- Identifying unclear or invalid cases
+- Catching errors before submission
+- Reviewing my work before completing a task
 
 I would rather take the time to understand a difficult case than make a quick guess that could affect the quality of the dataset.
 
@@ -100,7 +97,7 @@ I would rather take the time to understand a difficult case than make a quick gu
 
 A first-person video annotation project showing how I identify individual actions, create accurate video segments, review action boundaries, and follow project-specific guidelines.
 
-<a class="portfolio-button" href="video-annotation/">View Project</a>
+<a class="link-card" href="video-annotation/">View Project</a>
 
 </div>
 
@@ -108,18 +105,16 @@ A first-person video annotation project showing how I identify individual action
 
 ## Open to Work
 
-I am currently open to **remote opportunities** involving:
+I am currently open to **remote opportunities** in:
 
-<ul class="skill-list">
-  <li>Data Annotation</li>
-  <li>Video Annotation</li>
-  <li>Image Annotation</li>
-  <li>Video Segmentation</li>
-  <li>Data Labeling</li>
-  <li>AI Evaluation</li>
-  <li>AI Training</li>
-  <li>Data Quality</li>
-</ul>
+- Data annotation
+- Video annotation
+- Image annotation
+- Video segmentation
+- Data labeling
+- AI evaluation
+- AI training
+- Data quality
 
 I am also open to related roles involving the training, evaluation, testing, labeling, or improvement of AI and machine learning systems, even if the specific role is not listed above.
 
@@ -131,4 +126,4 @@ I am available for full-time, contract, freelance, part-time, and other suitable
 
 Interested in working with me or discussing an opportunity?
 
-<a class="portfolio-button" href="https://github.com/joseph-datalab">View My GitHub Profile</a>
+<a class="link-card" href="https://github.com/joseph-datalab">View My GitHub Profile</a>
