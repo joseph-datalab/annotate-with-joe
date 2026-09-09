@@ -90,12 +90,12 @@ I would rather take the time to understand a difficult case than make a quick gu
 
 ## Portfolio
 
-<div class="project-card">
+
 
 ### Atomic-Level Video Action Segmentation
 
 A first-person video annotation project showing how I identify individual actions, create accurate video segments, review action boundaries, and follow project-specific guidelines.
-
+<div class="project-card">
 <a class="link-card" href="video-annotation/">View Project</a>
 
 </div>
