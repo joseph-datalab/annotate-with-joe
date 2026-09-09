@@ -8,7 +8,6 @@ I enjoy working on projects that require attention to detail and clear guideline
 
 ## Featured Project
 
-<div class="project-card">
 
 ### Atomic-Level Video Action Segmentation
 
@@ -35,7 +34,7 @@ I identified where each action started and ended, created the appropriate segmen
 The project includes screenshots of my annotation work, examples of the guidelines I followed, my workflow, and a video demonstration.
 </p>
 
-</div>
+
 
 ---
 
