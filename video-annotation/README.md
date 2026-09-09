@@ -59,31 +59,31 @@ would be reviewed as separate meaningful actions rather than automatically treat
 
 The screenshots below show examples of my atomic-level video segmentation work. Each example shows how continuous footage is divided into individual action segments using precise start and end boundaries.
 
-### Example 1 — Multi-Action Segmentation
+### Example 1: Multi-Action Segmentation
 
 ![Video segmentation example](screenshots/segmentation-01.jpg)
 
 This example shows a continuous first-person activity divided into multiple action segments along the video timeline.
 
-### Example 2 — Segment Boundary Review
+### Example 2: Segment Boundary Review
 
 ![Video segmentation timeline](screenshots/segmentation-03.jpg)
 
 This example shows how I place segment boundaries around meaningful actions while maintaining continuity and avoiding unnecessary splitting.
 
-### Example 3 — Extended Activity Segmentation
+### Example 3: Extended Activity Segmentation
 
 ![Extended video segmentation](screenshots/segmentation-05.jpg)
 
 Longer sequences require continued review of action changes, object interactions, and segment duration throughout the video.
 
-### Example 4 — Different Environment
+### Example 4: Different Environment
 
 ![Video annotation example](screenshots/segmentation-07.jpg)
 
 This example shows the same annotation approach being applied to a different activity and environment.
 
-### Example 5 — Object Interaction
+### Example 5:  Object Interaction
 
 ![Human-object interaction annotation](screenshots/segmentation-08.jpg)
 
