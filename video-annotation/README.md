@@ -95,7 +95,7 @@ This example shows how hand and object interactions are reviewed and separated i
 
 A sample video showing the annotation workflow is included in this portfolio.
 
-<a class="link-card" href="videos/video-annotation-04.mp4">View Video Annotation Sample</a>
+<a class="link-card featured-project-link" href="videos/video-annotation-04.mp4">View Video Annotation Sample</a>
 
 The video gives a clearer view of the annotation interface, timeline, and how continuous footage is divided into individual action segments.
 
@@ -152,7 +152,7 @@ I am also comfortable learning custom annotation platforms and adapting to proje
 
 ## Back to Portfolio
 
-<a class="link-card" href="../">Back to Annotate with Joe</a>
+<a class="link-card featured-project-link"href="../">Back to Annotate with Joe</a>
 
 ---
 
