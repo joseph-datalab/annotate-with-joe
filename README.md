@@ -96,7 +96,7 @@ I would rather take the time to understand a difficult case than make a quick gu
 
 A first-person video annotation project showing how I identify individual actions, create accurate video segments, review action boundaries, and follow project-specific guidelines.
 <div class="project-card">
-<a class="link-card" href="video-annotation/">View Project</a>
+<a class="link-card featured-project-link" href="video-annotation/">View Project</a>
 
 </div>
 
@@ -125,4 +125,4 @@ I am available for full-time, contract, freelance, part-time, and other suitable
 
 Interested in working with me or discussing an opportunity?
 
-<a class="link-card" href="https://github.com/joseph-datalab">View My GitHub Profile</a>
+<a class="link-card featured-project-link" href="https://github.com/joseph-datalab">View My GitHub Profile</a>
