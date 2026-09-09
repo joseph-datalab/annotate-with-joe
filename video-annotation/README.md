@@ -154,7 +154,7 @@ I am also comfortable learning custom annotation platforms and adapting to proje
 
 More screenshots from this annotation project are available here:
 
-<a class="link-card" href="screenshots/">View Additional Screenshots</a>
+<a class="link-card" href="tree/main/video-annotation/screenshots">View Additional Screenshots</a>
 
 ---
 
