@@ -152,8 +152,8 @@ I am also comfortable learning custom annotation platforms and adapting to proje
 
 ## Back to Portfolio
 
-<a class="link-card featured-project-link"href="../">Back to Annotate with Joe</a>
+<a class="link-card featured-project-link" href="../">Back to Annotate with Joe</a>
 
 ---
 
-> **Portfolio Note:** The materials shown here are presented only as examples of my annotation skills and workflow. Sensitive client or project information is not included.
+> **Portfolio Note:**  The materials shown here are presented only as examples of my annotation skills and workflow. Sensitive client or project information is not included.
