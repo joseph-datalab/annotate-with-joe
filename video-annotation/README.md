@@ -121,16 +121,18 @@ When an action is unclear, I review the surrounding frames and compare the situa
 
 ## Skills Demonstrated
 
-- Video Annotation
-- Temporal Segmentation
-- Atomic Action Segmentation
-- Human-Object Interaction Analysis
-- Frame-Level Review
-- Action Boundary Detection
-- Guideline Interpretation
-- Edge-Case Review
-- Data Quality Assurance
-- Annotation Quality Control
+<ul class="skill-list">
+  <li>Video Annotation</li>
+  <li>Atomic-Level Action Segmentation</li>
+  <li>Image Annotation</li>
+  <li>Data Labeling</li>
+  <li>AI Response Evaluation</li>
+  <li>Human-Object Interaction Analysis</li>
+  <li>Data Quality Review</li>
+  <li>Guideline Interpretation</li>
+  <li>Edge-Case Review</li>
+  <li>Quality Assurance</li>
+</ul>
 
 ---
 
