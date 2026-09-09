@@ -154,6 +154,6 @@ I am also comfortable learning custom annotation platforms and adapting to proje
 
 <a class="link-card featured-project-link" href="../">Back to Annotate with Joe</a>
 
----
 
-The materials shown here are presented only as examples of my annotation skills and workflow. Sensitive client or project information is not included.
+
+## The materials shown here are presented only as examples of my annotation skills and workflow. Sensitive client or project information is not included.
