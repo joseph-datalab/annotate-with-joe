@@ -8,7 +8,7 @@ I work with detailed annotation guidelines to create accurate, consistent, and h
 
 ## Featured Project
 
-### 🎥 Atomic-Level Video Action Segmentation
+###  Atomic-Level Video Action Segmentation
 
 A video annotation project focused on dividing continuous first-person video footage into individual atomic-level actions using precise start and end boundaries.
 
@@ -75,7 +75,7 @@ My approach to annotation focuses on:
 
 ## Portfolio
 
-### 🎥 [Atomic-Level Video Action Segmentation](video-annotation/)
+###  [Atomic-Level Video Action Segmentation](video-annotation/)
 
 First-person video annotation project demonstrating action segmentation, boundary detection, human-object interaction analysis, and quality review.
 
