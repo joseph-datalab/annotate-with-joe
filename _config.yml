@@ -1,6 +1,5 @@
-title: Joseph Christpher
-logo: /assets/img/headshot_cirlce.png
+title: Annotate with Joe
 logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
+description: AI Data Annotation Portfolio | Video Annotation • Action Segmentation • Data Quality
+show_downloads: false
 theme: jekyll-theme-minimal
