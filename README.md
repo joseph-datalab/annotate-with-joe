@@ -1,6 +1,6 @@
 # Annotate with Joe
 
-Hi, I'm **Joseph**, an AI trainer and AI Data Annotator specialist  with hands-on experience in video annotation, video segmentation, AI response evaluation, and data quality review.
+Hi, I'm **Joseph**, an AI Trainer and AI Data Annotator specialist  with hands-on experience in video annotation, video segmentation, AI response evaluation, and data quality review.
 
 I work with detailed annotation guidelines to create accurate, consistent, and high-quality labeled data for AI and machine learning projects.
 
