@@ -96,7 +96,7 @@ The annotation process focuses on identifying meaningful hand and object interac
 
 A sample video demonstrating the annotation workflow is included in this repository.
 
-▶️ **[View Video Annotation Sample](videos/video-annotation-01.mp4)**
+▶️ **[View Video Annotation Sample](videos/video-annotation-04.mp4)**
 
 The video provides a clearer view of how continuous footage is divided into individual action segments.
 
