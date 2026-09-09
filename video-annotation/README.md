@@ -2,7 +2,7 @@
 
 ## Atomic-Level Video Segmentation & Human-Object Interaction Annotation
 
-This project showcases my hands-on experience with video annotation and temporal segmentation for AI and machine learning datasets.
+This project shows my hands-on experience with video annotation and video segmentation for AI and machine learning datasets.
 
 My work involved reviewing first-person video footage, identifying meaningful human actions, and dividing continuous videos into accurate atomic-level action segments based on detailed annotation guidelines.
 
@@ -10,7 +10,7 @@ My work involved reviewing first-person video footage, identifying meaningful hu
 
 ## Project Overview
 
-**Annotation Type:** Video Segmentation / Temporal Annotation  
+**Annotation Type:** Video Segmentation / Action Segmentation  
 **Data Type:** First-Person (Egocentric) Video  
 **Focus:** Human-Object Interaction & Atomic Actions  
 **Task:** Identify accurate start and end boundaries for individual actions  
@@ -57,19 +57,19 @@ would be reviewed as separate meaningful actions rather than automatically treat
 
 ## Sample Annotation Work
 
-The screenshots below show examples of my atomic-level video segmentation work, where continuous footage is divided into individual action segments based on precise start and end boundaries.
+The screenshots below show examples of my atomic-level video segmentation work. Each example shows how continuous footage is divided into individual action segments using precise start and end boundaries.
 
 ### Example 1 — Multi-Action Segmentation
 
 ![Video segmentation example](screenshots/segmentation-01.jpg)
 
-This example shows a continuous first-person activity divided into multiple temporal segments along the video timeline.
+This example shows a continuous first-person activity divided into multiple action segments along the video timeline.
 
 ### Example 2 — Segment Boundary Review
 
 ![Video segmentation timeline](screenshots/segmentation-03.jpg)
 
-Segment boundaries are placed around meaningful actions while maintaining continuity and avoiding unnecessary splitting.
+This example shows how I place segment boundaries around meaningful actions while maintaining continuity and avoiding unnecessary splitting.
 
 ### Example 3 — Extended Activity Segmentation
 
@@ -81,24 +81,23 @@ Longer sequences require continued review of action changes, object interactions
 
 ![Video annotation example](screenshots/segmentation-07.jpg)
 
-This sample demonstrates the same annotation methodology being applied to a different activity and environment.
+This example shows the same annotation approach being applied to a different activity and environment.
 
 ### Example 5 — Object Interaction
 
-![Human object interaction annotation](screenshots/segmentation-08.jpg)
+![Human-object interaction annotation](screenshots/segmentation-08.jpg)
 
-The annotation process focuses on identifying meaningful hand and object interactions and separating them into appropriate temporal segments.
-
+This example shows how hand and object interactions are reviewed and separated into appropriate action segments.
 
 ---
 
 ## Video Demonstration
 
-A sample video demonstrating the annotation workflow is included in this repository.
+A sample video showing the annotation workflow is included in this portfolio.
 
-▶️ **[View Video Annotation Sample](videos/video-annotation-04.mp4)**
+<a class="link-card" href="videos/video-annotation-04.mp4">View Video Annotation Sample</a>
 
-The video provides a clearer view of how continuous footage is divided into individual action segments.
+The video gives a clearer view of the annotation interface, timeline, and how continuous footage is divided into individual action segments.
 
 ---
 
@@ -111,7 +110,7 @@ Before submitting annotated work, I check for:
 - Incorrectly combined actions
 - Unnecessary segmentation
 - Segment duration requirements
-- Hand/action visibility
+- Hand and action visibility
 - Correct interpretation of project guidelines
 - Consistency across the complete video
 
@@ -124,13 +123,13 @@ When an action is unclear, I review the surrounding frames and compare the situa
 <ul class="skill-list">
   <li>Video Annotation</li>
   <li>Atomic-Level Action Segmentation</li>
-  <li>Image Annotation</li>
-  <li>Data Labeling</li>
-  <li>AI Response Evaluation</li>
+  <li>Video Segmentation</li>
   <li>Human-Object Interaction Analysis</li>
-  <li>Data Quality Review</li>
+  <li>Action Boundary Detection</li>
+  <li>Frame-Level Review</li>
   <li>Guideline Interpretation</li>
   <li>Edge-Case Review</li>
+  <li>Data Quality Review</li>
   <li>Quality Assurance</li>
 </ul>
 
@@ -138,12 +137,14 @@ When an action is unclear, I review the surrounding frames and compare the situa
 
 ## Annotation Tools
 
-I have experience working with annotation platforms and tools including:
+I have experience working with:
 
-- Supervisely
-- CVAT
-- Labelbox
-- Label Studio
+<ul class="skill-list">
+  <li>Supervisely</li>
+  <li>CVAT</li>
+  <li>Labelbox</li>
+  <li>Label Studio</li>
+</ul>
 
 I am also comfortable learning custom annotation platforms and adapting to project-specific workflows and guidelines.
 
@@ -151,7 +152,15 @@ I am also comfortable learning custom annotation platforms and adapting to proje
 
 ## Additional Screenshots
 
-More examples from the project are available in the [`screenshots`](screenshots/) folder.
+More screenshots from this annotation project are available here:
+
+<a class="link-card" href="screenshots/">View Additional Screenshots</a>
+
+---
+
+## Back to Portfolio
+
+<a class="link-card" href="../">Back to Annotate with Joe</a>
 
 ---
 
