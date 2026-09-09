@@ -1105,6 +1105,367 @@ section a.featured-project-link:hover {
 
 
 
+/* =========================================================
+   MOTION / ENTRANCE ANIMATIONS
+   ========================================================= */
+
+/* Base animation setup */
+
+section h1,
+section h2,
+section h3,
+section p,
+section ul,
+section ol,
+section img,
+.project-card,
+.skill-list,
+.link-card,
+header,
+footer {
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+
+/* Main page title */
+
+section h1 {
+  animation: fadeDown 0.8s ease-out 0.08s forwards;
+}
+
+
+/* Intro and general paragraphs */
+
+section > p {
+  animation: slideUp 0.75s ease-out 0.22s forwards;
+}
+
+
+/* Section headings */
+
+section h2 {
+  animation: slideLeft 0.7s ease-out 0.15s forwards;
+}
+
+
+/* Smaller headings */
+
+section h3 {
+  animation: fadeUpSoft 0.65s ease-out 0.18s forwards;
+}
+
+
+/* Project cards */
+
+.project-card {
+  animation: cardReveal 0.8s ease-out 0.22s forwards;
+}
+
+
+/* Regular bullet and numbered lists */
+
+section ul:not(.skill-list),
+section ol {
+  animation: slideRight 0.7s ease-out 0.22s forwards;
+}
+
+
+/* Screenshots */
+
+section img {
+  animation: imageReveal 0.8s ease-out 0.25s forwards;
+}
+
+
+/* Skill pill groups */
+
+.skill-list {
+  animation: fadeUpSoft 0.65s ease-out 0.20s forwards;
+}
+
+
+/* Individual skill pills */
+
+.skill-list li {
+  opacity: 0;
+  animation: pillPop 0.45s ease-out forwards;
+}
+
+.skill-list li:nth-child(1) { animation-delay: 0.10s; }
+.skill-list li:nth-child(2) { animation-delay: 0.16s; }
+.skill-list li:nth-child(3) { animation-delay: 0.22s; }
+.skill-list li:nth-child(4) { animation-delay: 0.28s; }
+.skill-list li:nth-child(5) { animation-delay: 0.34s; }
+.skill-list li:nth-child(6) { animation-delay: 0.40s; }
+.skill-list li:nth-child(7) { animation-delay: 0.46s; }
+.skill-list li:nth-child(8) { animation-delay: 0.52s; }
+.skill-list li:nth-child(9) { animation-delay: 0.58s; }
+.skill-list li:nth-child(10) { animation-delay: 0.64s; }
+
+
+/* Standard link cards */
+
+section a.link-card {
+  animation: buttonReveal 0.65s ease-out 0.30s forwards;
+}
+
+
+/* Featured CTA gets a one-time bounce-in,
+   then continues your existing glow */
+
+section a.featured-project-link {
+  opacity: 0;
+
+  animation:
+    ctaBounce 0.85s cubic-bezier(.22, 1.25, .36, 1) 0.35s forwards,
+    projectGlow 3s ease-in-out 1.2s infinite;
+}
+
+
+/* Sidebar */
+
+header {
+  animation: sidebarFade 0.9s ease-out 0.05s forwards;
+}
+
+
+/* Footer */
+
+footer {
+  animation: fadeUpSoft 0.8s ease-out 0.35s forwards;
+}
+
+
+/* =========================================================
+   KEYFRAMES
+   ========================================================= */
+
+@keyframes fadeDown {
+  from {
+    opacity: 0;
+    transform: translateY(-18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@keyframes slideLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-28px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+@keyframes slideRight {
+  from {
+    opacity: 0;
+    transform: translateX(24px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+@keyframes fadeUpSoft {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+@keyframes cardReveal {
+  from {
+    opacity: 0;
+    transform: translateY(24px) scale(0.985);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+
+@keyframes imageReveal {
+  from {
+    opacity: 0;
+    transform: translateY(26px) scale(0.985);
+    filter: blur(3px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+
+@keyframes pillPop {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.92);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+
+@keyframes buttonReveal {
+  from {
+    opacity: 0;
+    transform: translateY(14px) scale(0.97);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+
+@keyframes ctaBounce {
+  0% {
+    opacity: 0;
+    transform: translateY(28px) scale(0.90);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translateY(-5px) scale(1.02);
+  }
+
+  82% {
+    transform: translateY(2px) scale(0.995);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+
+@keyframes sidebarFade {
+  from {
+    opacity: 0;
+    transform: translateX(-22px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+/* =========================================================
+   HOVER MICRO-INTERACTIONS
+   ========================================================= */
+
+section h2 {
+  transition:
+    transform 0.25s ease,
+    background 0.25s ease;
+}
+
+section h2:hover {
+  transform: translateX(3px);
+}
+
+
+.project-card {
+  transition:
+    transform 0.25s ease,
+    border-color 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+}
+
+
+.skill-list li:hover {
+  transform: translateY(-2px) scale(1.03);
+}
+
+
+section img:hover {
+  transform: translateY(-3px) scale(1.005);
+}
+
+
+/* =========================================================
+   ACCESSIBILITY
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+
+  section h1,
+  section h2,
+  section h3,
+  section p,
+  section ul,
+  section ol,
+  section img,
+  .project-card,
+  .skill-list,
+  .skill-list li,
+  .link-card,
+  header,
+  footer {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+  }
+}
+
+
 
 
 
