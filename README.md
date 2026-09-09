@@ -28,7 +28,7 @@ I identified where each action started and ended, created the appropriate segmen
   <li>Quality Assurance</li>
 </ul>
 
-<a class="link-card" href="video-annotation/">View Full Video Annotation Project</a>
+<a class="link-card featured-project-link" href="video-annotation/">View Full Video Annotation Project</a>
 
 <p class="project-note">
 The project includes screenshots of my annotation work, examples of the guidelines I followed, my workflow, and a video demonstration.
