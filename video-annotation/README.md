@@ -57,7 +57,7 @@ would be reviewed as separate meaningful actions rather than automatically treat
 
 ## Sample Annotation Work
 
-The screenshots below show examples of my temporal segmentation work. The timeline contains multiple clips created by identifying action transitions and defining their start and end boundaries.
+The screenshots below show examples of my atomic-level video segmentation work, where continuous footage is divided into individual action segments based on precise start and end boundaries.
 
 ### Example 1 — Multi-Action Segmentation
 
