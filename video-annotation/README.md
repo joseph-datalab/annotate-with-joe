@@ -89,11 +89,6 @@ This sample demonstrates the same annotation methodology being applied to a diff
 
 The annotation process focuses on identifying meaningful hand and object interactions and separating them into appropriate temporal segments.
 
-### Example 6 — Dense Timeline Segmentation
-
-![Dense segmentation timeline](screenshots/segmentation-09.jpg)
-
-This example shows multiple action segments across the timeline, requiring careful attention to action transitions and segment boundaries.
 
 ---
 
