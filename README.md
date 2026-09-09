@@ -1,90 +1,98 @@
 # Annotate with Joe
 
-Hi, I'm **Joseph**, an AI Trainer and AI Data Annotator specialist  with hands-on experience in video annotation, video segmentation, AI response evaluation, and data quality review.
+Hi, I'm **Joseph**, an AI Trainer and Data Annotator with hands-on experience in video annotation, video segmentation, AI response evaluation, and data quality review.
 
-I work with detailed annotation guidelines to create accurate, consistent, and high-quality labeled data for AI and machine learning projects.
+I enjoy working on projects that require attention to detail and clear guidelines. My main focus is producing accurate and consistent data that can be used to train and improve AI and machine learning systems.
 
 ---
 
 ## Featured Project
 
-###  Atomic-Level Video Action Segmentation
+### Atomic-Level Video Action Segmentation
 
-A video annotation project focused on dividing continuous first-person video footage into individual atomic-level actions using precise start and end boundaries.
+This project involved reviewing first-person videos and breaking continuous activities into individual actions based on specific annotation guidelines.
 
-The project demonstrates my experience with:
+I identified where each action started and ended, created the appropriate segments, and reviewed the completed work for accuracy and consistency.
 
-- Video Annotation
-- Atomic-Level Action Segmentation
-- Human-Object Interaction Analysis
-- Action Boundary Detection
-- Frame-Level Review
-- Guideline Interpretation
-- Edge-Case Handling
-- Annotation Quality Assurance
+Some of the skills demonstrated in this project include:
 
-### ➜ [View Full Video Annotation Project](video-annotation/)
+- Video annotation
+- Atomic-level action segmentation
+- Human-object interaction analysis
+- Action boundary detection
+- Frame-level review
+- Guideline interpretation
+- Edge-case handling
+- Quality assurance
 
-The project includes annotation screenshots, workflow examples, segmentation guidelines, and a video demonstration.
+[View the full video annotation project](video-annotation/)
+
+The project includes screenshots of my annotation work, examples of the guidelines I followed, my workflow, and a video demonstration.
 
 ---
 
-## Annotation Experience
+## Experience
 
-My annotation and AI data experience includes:
+My experience includes working with different types of AI training and annotation tasks, including:
 
-- Video Annotation
-- Video Segmentation
-- Image Annotation
-- Object Labeling
-- AI Response Evaluation
-- Data Quality Assurance
-- Guideline-Based Review
-- Error Detection
-- Edge-Case Review
+- Video annotation
+- Video segmentation
+- Image annotation
+- Object labeling
+- AI response evaluation
+- Data quality review
+- Guideline-based annotation
+- Error detection
+- Edge-case review
 
-I focus on understanding project guidelines carefully and maintaining consistency throughout annotation tasks.
+I am comfortable working with detailed guidelines and adapting to different project requirements. When I come across an unclear case, I review the guidelines and surrounding data carefully before making a decision.
 
 ---
 
 ## Tools
 
-I have experience with:
+I have worked with annotation tools including:
 
 - Supervisely
 - CVAT
 - Labelbox
 - Label Studio
 
-I am also comfortable working with custom annotation platforms and learning new project-specific tools.
+I have also worked with custom annotation platforms and can quickly learn new tools when a project uses its own system.
 
 ---
 
-## Quality Focus
+## How I Work
 
-My approach to annotation focuses on:
+Accuracy is important to me, especially when working with large amounts of training data. I pay attention to:
 
-- Accurate labels and segment boundaries
-- Careful guideline interpretation
-- Consistency across datasets
-- Identifying ambiguous or invalid cases
-- Reviewing work before submission
-- Maintaining annotation quality rather than rushing for volume
+- Correct labels and segment boundaries
+- Following project guidelines
+- Keeping annotations consistent
+- Identifying unclear or invalid cases
+- Catching errors before submission
+- Reviewing my work before completing a task
+
+I would rather take the time to understand a difficult case than make a quick guess that could affect the quality of the dataset.
 
 ---
 
 ## Portfolio
 
-###  [Atomic-Level Video Action Segmentation](video-annotation/)
+### [Atomic-Level Video Action Segmentation](video-annotation/)
 
-First-person video annotation project demonstrating action segmentation, boundary detection, human-object interaction analysis, and quality review.
+A first-person video annotation project showing how I identify individual actions, create accurate video segments, review action boundaries, and follow project-specific guidelines.
+
+---
+
+## Open to Work
+
+I am open to **remote opportunities** in data annotation, video and image annotation, data labeling, AI evaluation, AI training, data quality, and other related work involving the training, evaluation, and improvement of AI systems.
+
+I am open to full-time, contract, freelance, and other suitable remote opportunities.
 
 ---
 
 ## Contact
 
-I am open to remote opportunities in:
-
-**Data Annotation • Video Annotation • Image Annotation • Data Labeling • AI Evaluation • AI Training • Data Quality**
-
-Feel free to connect with me through my GitHub profile.
+You can reach me through my GitHub profile for work opportunities or collaboration.
