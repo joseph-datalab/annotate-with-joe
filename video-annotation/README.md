@@ -150,14 +150,6 @@ I am also comfortable learning custom annotation platforms and adapting to proje
 
 ---
 
-## Additional Screenshots
-
-More screenshots from this annotation project are available here:
-
-<a class="link-card" href="tree/main/video-annotation/screenshots">View Additional Screenshots</a>
-
----
-
 ## Back to Portfolio
 
 <a class="link-card" href="../">Back to Annotate with Joe</a>
