@@ -58,6 +58,10 @@ I identified and labeled different hardware components across the image, using p
   <li>Supervisely</li>
 </ul>
 
+
+![Full annotation view](image-annotation/screenshots/full-01.jpg)
+
+
 <a class="link-card featured-project-link" href="image-annotation/">View Full Image Annotation Project</a>
 
 The project includes annotation screenshots, examples of labeled MacBook logic board components, class-based annotations, and details about my annotation workflow.
