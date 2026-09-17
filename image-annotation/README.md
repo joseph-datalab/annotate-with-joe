@@ -86,10 +86,10 @@ Below is a video demonstration and supporting screenshots from my MacBook logic 
 ### Example 1: Completed Annotation Video Demonstration
 
 <video controls width="100%">
-  <source src="screenshots/video-0001.mp4" type="screenshots/mp4">
+  <source src="screenshots/video-0001.mp4" type="screenshots/video-0001.mp4">
 </video>
 
-<a class="link-card featured-project-link" href="videos/video-0001.mp4">View Full Annotation Video</a>
+<a class="link-card featured-project-link" href="screenshots/video-0001.mp4">View Full Annotation Video</a>
 
 This video shows the completed MacBook logic board annotation project and provides a closer look at my work inside the annotation interface.
 
@@ -101,11 +101,7 @@ The video provides a clearer view of the completed annotation and how the indivi
 
 ### Example 2: Full Annotation View
 
-<video controls width="100%">
-  <source src="screenshots/video-0001.mp4" type="video/mp4">
-</video>
-
-<a class="link-card featured-project-link" href="screenshots/video-0001.mp4">View Full Annotation Video</a>
+![Full annotation view](screenshots/full-01.jpg)
 
 This view shows the completed annotation workspace with component classes, object labels, and annotations visible across the MacBook logic board.
 
