@@ -101,7 +101,11 @@ The video provides a clearer view of the completed annotation and how the indivi
 
 ### Example 2: Full Annotation View
 
-![Full annotation view](screenshots/full-01.jpg)
+<video controls width="100%">
+  <source src="screenshots/video-0001.mp4" type="video/mp4">
+</video>
+
+<a class="link-card featured-project-link" href="screenshots/video-0001.mp4">View Full Annotation Video</a>
 
 This view shows the completed annotation workspace with component classes, object labels, and annotations visible across the MacBook logic board.
 
