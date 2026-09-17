@@ -89,7 +89,7 @@ Below is a video demonstration and supporting screenshots from my MacBook logic 
   <source src="screenshots/video-0001.MP4" type="screenshots/video-0001.MP4">
 </video>
 
-<a class="link-card featured-project-link" href="screenshots/video-0001.mp4">View Full Annotation Video</a>
+<a class="link-card featured-project-link" href="screenshots/video-0001.MP4">View Full Annotation Video</a>
 
 This video shows the completed MacBook logic board annotation project and provides a closer look at my work inside the annotation interface.
 
