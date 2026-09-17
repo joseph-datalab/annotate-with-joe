@@ -28,6 +28,9 @@ I identified where each action started and ended, created the appropriate segmen
   <li>Quality Assurance</li>
 </ul>
 
+![Video segmentation timeline](screenshots/segmentation-03.jpg)
+
+
 <a class="link-card featured-project-link" href="video-annotation/">View Full Video Annotation Project</a>
 
 <p class="project-note">
