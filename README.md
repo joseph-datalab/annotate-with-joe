@@ -35,6 +35,29 @@ The project includes screenshots of my annotation work, examples of the guidelin
 </p>
 
 
+---
+### MacBook Logic Board Component Annotation
+
+This project involved annotating components on a MacBook logic board for a computer vision dataset using Supervisely.
+
+I identified and labeled different hardware components across the image, using precise annotations to separate individual objects and component classes.
+
+**Skills demonstrated in this project:**
+
+<ul class="skill-list">
+  <li>Image Annotation</li>
+  <li>Computer Vision Labeling</li>
+  <li>Object Detection</li>
+  <li>Instance Segmentation</li>
+  <li>Multi-Class Annotation</li>
+  <li>Object Classification</li>
+  <li>Annotation Quality Review</li>
+  <li>Supervisely</li>
+</ul>
+
+<a class="link-card featured-project-link" href="image-annotation/">View Full Image Annotation Project</a>
+
+The project includes annotation screenshots, examples of labeled MacBook logic board components, class-based annotations, and details about my annotation workflow.
 
 ---
 
