@@ -81,39 +81,47 @@ I also made sure that nearby components belonging to different classes were anno
 
 ## Sample Annotation Work
 
-The screenshots below show examples of my image annotation work in Supervisely.
+Below are examples from my MacBook logic board image annotation project in Supervisely.
 
-### Example 1: Full Logic Board Annotation
+### Example 1: Full Annotation View
 
-![MacBook logic board annotation](screenshots/image-annotation-01.jpg)
+![Full annotation view](screenshots/full-01.jpg)
 
-This example shows the MacBook logic board with multiple hardware components identified and annotated across the complete image.
+This view shows the completed annotation workspace with component classes, object labels, and annotations visible across the MacBook logic board.
 
-### Example 2: Multi-Class Component Labeling
+### Example 2: Annotation Tags View
 
-![Multi-class component annotation](screenshots/image-annotation-02.jpg)
+![Annotation tags view](screenshots/tags-only-02.png)
 
-This example shows different component classes being annotated within the same image. Each class is kept separate so individual hardware components can be identified correctly.
+This view highlights the annotated components and their associated tags, showing how object information was organized within the annotation interface.
 
-### Example 3: Detailed Component Annotation
+### Example 3: Classes View
 
-![Detailed logic board annotation](screenshots/image-annotation-03.jpg)
+![Annotation classes view](screenshots/classes-only-03.png)
 
-This example shows detailed annotation around components of different sizes and shapes, including components positioned close to one another.
+This view shows the different component classes used throughout the project, including CPU, cooling fan, heatsink, RAM slot, ports, connectors, capacitors, and other hardware components.
 
-### Example 4: Annotation Boundary Review
+### Example 4: Annotation Without Tags or Classes
 
-![Component boundary annotation](screenshots/image-annotation-04.jpg)
+![Annotation without tags or classes](screenshots/no-tags-no-classes-04.png)
 
-This example shows the logic board during annotation review, where object boundaries and class assignments can be checked before completing the task.
+This view provides a cleaner look at the annotation boundaries without the additional class and tag labels covering the image.
 
-### Example 5: Completed Component Labeling
+### Example 5: Labels Hidden
 
-![Completed MacBook component annotation](screenshots/image-annotation-05.jpg)
+![Annotation with labels hidden](screenshots/labels-off-05.png)
 
-This example provides another view of the annotated logic board and demonstrates consistent labeling across multiple hardware component classes.
+This view shows the annotated regions with labels hidden, making it easier to inspect the placement and boundaries of the annotations across the logic board.
+
+### Example 6: Original Image
+
+![Original MacBook logic board](screenshots/original-image-06.png)
+
+This is the original MacBook logic board image before annotation, providing a comparison between the raw image and the completed labeled version.
+
 
 ---
+
 
 ## Quality Assurance
 
