@@ -86,7 +86,7 @@ Below is a video demonstration and supporting screenshots from my MacBook logic 
 ### Example 1: Completed Annotation Video Demonstration
 
 <video controls width="100%">
-  <source src="screenshots/video-0001.MP4" type="screenshots/video-0001.MP4">
+  <source src="screenshots/video-0001.MP4" type="video/mp4">
 </video>
 
 <a class="link-card featured-project-link" href="screenshots/video-0001.MP4">View Full Annotation Video</a>
