@@ -1468,5 +1468,167 @@ section img:hover {
 
 
 
+/* =========================================================
+   GREEN → YELLOW GRADIENT HEADINGS & BOLD TEXT
+   ========================================================= */
+
+
+/* =========================================================
+   H1, H3, H4, H5, H6 + SIDEBAR TITLE
+   ========================================================= */
+
+section h1,
+section h3,
+section h4,
+section h5,
+section h6,
+header h1 {
+
+  background-image: linear-gradient(
+    90deg,
+    #67e88a 0%,
+    #9ee86f 45%,
+    #f0d85a 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+
+/* =========================================================
+   H2 — KEEP EXISTING CARD STYLE
+   ========================================================= */
+
+section h2 {
+
+  color: var(--gold);
+
+  -webkit-text-fill-color: var(--gold);
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(214, 173, 43, 0.11),
+      rgba(214, 173, 43, 0.035)
+    );
+
+  border-left: 2px solid var(--gold);
+
+  border-top:
+    1px solid rgba(214, 173, 43, 0.08);
+
+  border-right:
+    1px solid rgba(214, 173, 43, 0.08);
+
+  border-bottom:
+    1px solid rgba(214, 173, 43, 0.08);
+
+  border-radius: 0 8px 8px 0;
+
+  position: relative;
+}
+
+
+/* =========================================================
+   STRONG / BOLD TEXT
+   ========================================================= */
+
+section strong,
+section b {
+
+  display: inline;
+
+  background-image: linear-gradient(
+    90deg,
+    #67e88a 0%,
+    #a6e96d 50%,
+    #f0d85a 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   BOLD TEXT INSIDE LISTS
+   ========================================================= */
+
+section li strong,
+section li b {
+
+  background-image: linear-gradient(
+    90deg,
+    #67e88a 0%,
+    #a6e96d 50%,
+    #f0d85a 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   BOLD TEXT INSIDE PARAGRAPHS
+   ========================================================= */
+
+section p strong,
+section p b {
+
+  background-image: linear-gradient(
+    90deg,
+    #67e88a 0%,
+    #a6e96d 50%,
+    #f0d85a 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   BOLD TEXT INSIDE BLOCKQUOTES
+   ========================================================= */
+
+section blockquote strong,
+section blockquote b {
+
+  background-image: linear-gradient(
+    90deg,
+    #67e88a 0%,
+    #a6e96d 50%,
+    #f0d85a 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+
+  font-weight: 700;
+}
+
 
 
