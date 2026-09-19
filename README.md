@@ -10,6 +10,38 @@ I enjoy work that requires attention to detail, critical thinking, and careful d
 
 ## Featured Projects
 
+
+### LiDAR & 3D Point Cloud Annotation
+
+This project involved annotating objects in **LiDAR / 3D point cloud data** for a computer vision dataset using Supervisely.
+
+I worked with 3D point clouds and camera views to identify vehicles and create **3D cuboid annotations**, adjusting the position, size, and orientation of each cuboid to match the object accurately across different views.
+
+**Skills demonstrated in this project:**
+
+<ul class="skill-list">
+  <li>LiDAR Annotation</li>
+  <li>3D Point Cloud Annotation</li>
+  <li>3D Cuboid Annotation</li>
+  <li>Vehicle Annotation</li>
+  <li>Object Detection</li>
+  <li>Multi-View Annotation</li>
+  <li>Camera & Point Cloud Review</li>
+  <li>Object Localization</li>
+  <li>Annotation Quality Review</li>
+  <li>Supervisely</li>
+</ul>
+
+![LiDAR and 3D Point Cloud Annotation](assets/img/lidar-project-01.png)
+
+<p class="project-note">
+This project demonstrates my experience working with LiDAR point clouds, 3D cuboids, multiple viewing angles, and camera reference data for computer vision annotation.
+</p>
+
+---
+
+
+
 ### Atomic-Level Video Action Segmentation
 
 This project involved reviewing first-person videos and breaking continuous activities into individual actions based on specific annotation guidelines.
