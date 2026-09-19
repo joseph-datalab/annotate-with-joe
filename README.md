@@ -32,7 +32,7 @@ I worked with 3D point clouds and camera views to identify vehicles and create *
   <li>Supervisely</li>
 </ul>
 
-![LiDAR and 3D Point Cloud Annotation](assets/img/lidar-project-01.png)
+![LiDAR and 3D Point Cloud Annotation](assets/img/lidar-project-02.png)
 
 <p class="project-note">
 This project demonstrates my experience working with LiDAR point clouds, 3D cuboids, multiple viewing angles, and camera reference data for computer vision annotation.
